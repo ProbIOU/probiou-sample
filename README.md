@@ -8,4 +8,4 @@ For adapted code with Probabilistic IOU see:
   + EFFICIENTDET:
   + SSD:
 * Rotated Bounding Boxes
-  + RetinaNet and R3Det 
+  + RetinaNet and R3Det:
