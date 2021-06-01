@@ -5,7 +5,7 @@ This repository has sample code of Probabilistic IOU function in Pytorch and Ten
 For adapted code with Probabilistic IOU see:
 
 * Horizontal Bounding Boxes
-  + EFFICIENTDET:
-  + SSD:
+  + [EFFICIENTDET](https://github.com/ProbIOU/PROBIOU-EFFICIENTDET)
+  + [SSD](https://github.com/ProbIOU/PROBIOU-SSD)
 * Rotated Bounding Boxes
   + RetinaNet and R3Det:
